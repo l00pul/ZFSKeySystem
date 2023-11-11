@@ -11,6 +11,6 @@ store it in the same folder in which you store the keys.php.
 
 just forward all to keys.php for example like this:
 
->  location / {
->    try_files $uri $uri/ /keys.php?$args;
+>  location / {  
+>    try_files $uri $uri/ /keys.php?$args;  
 >  }
