@@ -3,7 +3,8 @@
  * Simple Key System
  *   taking care of ZFS keys used in encryption
  *
- * @see https://jeanbruenn.info
+ * @see https://github.com/chani/SimpleZFSKeySystem
+ * @see https://blog.jeanbruenn.info/2023/11/11/encryption-of-zfs-volumes-using-a-remote-external-key-system-written-in-php/
  * @author Jean Bruenn <himself@jeanbruenn.info> 
  */
 include('rb-sqlite.php');
