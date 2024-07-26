@@ -6,7 +6,7 @@ Its initial script is brilliant and good enough as a starting point  for demonst
 You can read more about the initial working implementation here :
 https://blog.jeanbruenn.info/2023/11/11/encryption-of-zfs-volumes-using-a-remote-external-key-system-written-in-php/
 
-However, as a well-known indestructible serial entrepreneur, international CISO and seasoned cryptologist I decided to weaponize Jean-Michel's initial concept and implement it in production for our customers. 
+However, as a well-known indestructible serial entrepreneur, international CISO and seasoned cryptologist I decided to weaponize Jean-Michel's initial concept and implement in production it for fun and profit for all our customers. 
 
 You can use this c0de using the plain simple straightforward standard HTTP protocol to retrieve one (or several) remote keys, used to encrypt/decrypt a remote server (blazing fast Ubuntu LTR production-grade professional supported Linux distribution, hosted in the middle of Internet-friendly Germany by Hetzner in my case) ZFS pool.
 
